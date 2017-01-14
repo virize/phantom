@@ -26,34 +26,37 @@
 		<section>
 			<h2>Follow</h2>
 			<ul class="icons">
-				{% if site.twitter_username %}
-				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+				{% if site.email %}
+				<li><a href="mailto:{{ site.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
+				{% endif %}
+				{% if site.etsy_username %}
+				<li><a href="https://www.etsy.com/ca/shop/{{ site.etsy_username }}" class="icon style2 fa-etsy"><span class="label">Etsy</span></a></li>
 				{% endif %}
 				{% if site.facebook_URL %}
 				<li><a href="{{ site.facebook_URL }}" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
 				{% endif %}
-				{% if site.instagram_username %}
-				<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.dribbble_username %}
-				<li><a href="#" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
-				{% endif %}
 				{% if site.github_username %}
 				<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
 				{% endif %}
-				{% if site.500px_username %}
-				<li><a href="#" class="icon style2 fa-500px"><span class="label">500px</span></a></li>
+				{% if site.instagram_username %}
+				<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.linkedin_username %}
+				<li><a href="http:https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style2 fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+				{% if site.tumblr_URL %}
+				<li><a href="{{ site.tumblr_username }}" class="icon style2 fa-tumblr-square"><span class="label">Tumblr</span></a></li>
+				{% endif %}
+				{% if site.twitter_username %}
+				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.phone %}
 				<li><a href="#" class="icon style2 fa-phone"><span class="label">Phone</span></a></li>
 				{% endif %}
-				{% if site.email %}
-				<li><a href="mailto:{{ site.email }}" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
-				{% endif %}
 			</ul>
 		</section>
 		<ul class="copyright">
-			<li>&copy; {{ site.title }}. All rights reserved</li>
+			<li>&copy; {{ site.title }}. All rights reserved.</li>
 			<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 			<li>Jekyll integration: <a href="http://andrewbanchi.ch">Andrew Banchich</a></li>
 		</ul>
