@@ -17,11 +17,11 @@ categories: projects
 
 Hapa expressed great interest in working with our team and the Museum of Vancouver to create a film about their firm and "Why I Design". Before conducting the actual interviews, the team created a storyboard with myself developing the majority to give Hapa a clear idea and direction of how the team envisioned the film.
 
-<a href="/images/iat344/storyboard1"
+<a href="/images/iat344/storyboard1.png"
    data-lightbox="storyboards"
    data-title="Hi">
   <img class="thumbnail"
-       src="/images/iat344/storyboard1"
+       src="/images/iat344/storyboard1.png"
        title="A Sample Image"
        alt="A Sample Image">
 </a>
