@@ -19,7 +19,7 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u$"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/storyboard1.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard2.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard3.png" alt="" /></span></div>
 </div>
