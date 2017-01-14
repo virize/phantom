@@ -23,7 +23,7 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><a href="http://i.imgur.com/TCzilcJ.png"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /><em>image_caption</em></a></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/TCzilcJ.png"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /></a></span><em>image_caption</em></div>
 <div class="4u"><span class="image fit"><a href="http://i.imgur.com/S2llLZq.png"><img src="http://i.imgur.com/S2llLZq.png" alt="" /></a></span></div>
 <div class="4u$"><span class="image fit"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /></span></div>
 </div>
