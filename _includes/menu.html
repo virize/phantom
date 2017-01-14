@@ -1,7 +1,7 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-		{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+		{% assign navigation_pages = site.md_pages | sort: 'navigation_weight' %}
 		{% for p in navigation_pages %}
 			{% if p.navigation_weight %}
 				<li>
