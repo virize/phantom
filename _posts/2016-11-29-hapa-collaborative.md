@@ -35,8 +35,6 @@ With the storyboard complete and sent to Hapa to review, the team then focused o
 </div>
 </div>
 
-![hi](/images/iat344/storyboard3.png)
-
 We also visited several of Hapa's project sites including the Megaphone in Jim Deva Plaza, the Megabench in Lonsdale Quay, and the Terra Nova Adventure Play Environment in Richmond to collect supplementary shots, or B-roll, to include in the film. Once the team finished conducting interviews and shooting the B-roll we needed, we went straight into Adobe Premiere and Adobe After Effects to begin putting together the documentary interview. Several cuts were created for and critiqued by Hapa to ensure that our film's direction and what Hapa wanted as an outcome were aligned so as to prevent a conflict of interest.
 
 <b>REFLECTION:</b> As one of the longer film projects I've undertaken with a production team spanning nearly 13 weeks, maintaining open communication at all times with Hapa was integral in creating a film that both the team and Hapa was satisfied with. However, this project wasn't without its challenges; many of the days we had planned to shoot interviews or B-roll were cancelled due to poor weather conditions or designers were unavailable. During the editing stage, we discovered some of our equipment was not functioning as expected or was not set up properly prior to shots, resulting in less than desirable audio and video quality and having to reshoot some of the scenes to achieve the result we wanted. It was an incredibly time-consuming and stressful process getting from an initial idea to a polished, high quality film, but the experience in working together with my team, Hapa, and the Museum of Vancouver was enjoyably unique.
