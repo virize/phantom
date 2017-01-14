@@ -2,7 +2,7 @@
 layout: page
 title:  "Lululemon Web Experience Redesign"
 date:   2016-04-15 12:00:00 -0800
-permalink: "lululemon.html"
+permalink: "lululemon.md"
 categories: projects
 navigation_weight: 2
 ---
