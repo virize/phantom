@@ -1,8 +1,8 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-		{% assign navigation_pages = site.md_pages | sort: 'navigation_weight' %}
-		{% for p in navigation_pages %}
+		{% assign navigation_posts = site.html_posts | sort: 'navigation_weight' %}
+		{% for p in navigation_posts %}
 			{% if p.navigation_weight %}
 				<li>
 					<a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
