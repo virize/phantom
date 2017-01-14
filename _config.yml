@@ -31,3 +31,7 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+# This will require each of these gems automatically. Installs gem plugins
+gems: [lightbox]
+gem install lightbox
