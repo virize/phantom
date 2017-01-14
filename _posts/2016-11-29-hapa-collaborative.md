@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  "Hapa Collaborative: 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 categories: projects
