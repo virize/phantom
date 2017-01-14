@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  "Hapa Collaborative: 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 categories: projects
@@ -22,9 +22,6 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 <div class="4u$"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard2.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard3.png" alt="" /></span></div>
-<div class="12u$"><span class="image fit"><img src="images/pic13.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
 </div>
 </div>
 
