@@ -24,5 +24,10 @@
 		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li>
 
 		{% endif %} {% endfor %}
+		
+		{% for post in site.posts %}
+		{if page.path == "index.html"}
+		<li><a href="{{page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+		{% endif} {% endfor %}
 	</ul>
 </nav>
