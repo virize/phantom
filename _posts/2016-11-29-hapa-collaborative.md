@@ -22,8 +22,8 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 <a href="images/iat344/storyboard3.png" data-lightbox="storyboards" data-title="Storyboard page 3">Storyboard 3</a>
 
 <div class="4u"><span class="image fit"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="http://i.imgur.com/TCzilcJ.png" alt="" /></span></div>
 
 With the storyboard complete and sent to Hapa to review, the team then focused on arranging suitable interview times with the designers in their studio. In preparation and understanding that we may not have more than a couple of opportunities to be able to film Hapa in their studio due to time constraints and availability, we arranged several interview questions specific to each designer's roles, projects, and contributions. We also prepared some general statements and questions about "why they design", "what design means to them", and "what Hapa is" to highlight the firm's collaborative nature, as no one project is done by a single designer, but rather a team of designers.
 
