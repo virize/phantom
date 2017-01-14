@@ -11,6 +11,10 @@
     <span class="image main">
       <img src="{{ page.featured-image }}" alt="">
     </span> {% endif %} {{ content }} {% include footer.html %}
+    
+    {% for gallery in site.data.galleries %}
+    - [{{ gallery.description }}]({{ gallery.id }})
+    {% endfor %}
 
 
 </body>
