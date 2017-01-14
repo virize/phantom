@@ -3,6 +3,29 @@ layout: page
 title:  "Hapa Collaborative: 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 categories: projects
+imgfolder: /images/iat344
+images:
+  - name: storyboard1.png
+    thumb: storyboard1.png
+    text: Storyboard page 1
+  - name: storyboard2.png
+    thumb: storyboard2.png
+    text: Storyboard page 2
+  - name: storyboard3.png
+    thumb: storyboard3.png
+    text: Storyboard page 3
+   - name: 2016-10-26-16.27.png
+    thumb: 2016-10-26-16.27.png
+    text: Conducting an interview
+  - name: 2016-10-26-16.png
+    thumb: 2016-10-26-16.png
+    text: Conducting an interview
+  - name: 2016-11-02-15.30.png
+    thumb: 2016-11-02-15.30.png
+    text: Showing the designers at HAPA progress on the documentary film thus far
+  - name: 20161102_160528.png
+    thumb: 20161102_160528.png
+    text: Filming B-roll footage
 ---
 <b>THE PROJECT:</b>  Made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT), the team interviewed local landscape architecture firm Hapa Collaborative, highlighting why they design as well as some of their various projects and installations within the city of Vancouver in a documentary style film.
 
@@ -17,13 +40,7 @@ categories: projects
 
 Hapa expressed great interest in working with our team and the Museum of Vancouver to create a film about their firm and "Why I Design". Before conducting the actual interviews, the team created a storyboard with myself developing the majority to give Hapa a clear idea and direction of how the team envisioned the film.
 
-<div class="box alt">
-<div class="row uniform">
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard2.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard3.png" alt="" /></span></div>
-</div>
-</div>
+{% include galheader.html %}
 
 With the storyboard complete and sent to Hapa to review, the team then focused on arranging suitable interview times with the designers in their studio. In preparation and understanding that we may not have more than a couple of opportunities to be able to film Hapa in their studio due to time constraints and availability, we arranged several interview questions specific to each designer's roles, projects, and contributions. We also prepared some general statements and questions about "why they design", "what design means to them", and "what Hapa is" to highlight the firm's collaborative nature, as no one project is done by a single designer, but rather a team of designers.
 
