@@ -25,17 +25,17 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 </div>
 </div>
 
-
+<p></p>
 With the storyboard complete and sent to Hapa to review, the team then focused on arranging suitable interview times with the designers in their studio. In preparation and understanding that we may not have more than a couple of opportunities to be able to film Hapa in their studio due to time constraints and availability, we arranged several interview questions specific to each designer's roles, projects, and contributions. We also prepared some general statements and questions about "why they design", "what design means to them", and "what Hapa is" to highlight the firm's collaborative nature, as no one project is done by a single designer, but rather a team of designers.
 
 <div class="box alt">
 <div class="row uniform">
-<div class="3u"><span class="image fit"><a href="http://i.imgur.com/fNp6bSy.png"><img src="http://i.imgur.com/EWs1qsk.png?1" alt="" /></a></span></div>
-<div class="3u"><span class="image fit"><a href="http://i.imgur.com/tsCnjd0.png"><img src="http://i.imgur.com/sF6IK1Q.png?1" alt="" /></a></span></div>
-<div class="3u"><span class="image fit"><a href="http://i.imgur.com/FcGinqt.png"><img src="http://i.imgur.com/JLaNWM8.png?1" alt="" /></a></span></div>
-<div class="3u$"><span class="image fit"><a href="http://i.imgur.com/BvaoS8s.png"><img src="http://i.imgur.com/pXoef6Y.png?1" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/fNp6bSy.png"><img src="http://i.imgur.com/EWs1qsk.png?1" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/FcGinqt.png"><img src="http://i.imgur.com/JLaNWM8.png?1" alt="" /></a></span></div>
+<div class="4u$"><span class="image fit"><a href="http://i.imgur.com/BvaoS8s.png"><img src="http://i.imgur.com/pXoef6Y.png?1" alt="" /></a></span></div>
 </div>
 </div>
+
 We also visited several of Hapa's project sites including the Megaphone in Jim Deva Plaza, the Megabench in Lonsdale Quay, and the Terra Nova Adventure Play Environment in Richmond to collect supplementary shots, or B-roll, to include in the film. Once the team finished conducting interviews and shooting the B-roll we needed, we went straight into Adobe Premiere and Adobe After Effects to begin putting together the documentary interview. Several cuts were created for and critiqued by Hapa to ensure that our film's direction and what Hapa wanted as an outcome were aligned so as to prevent a conflict of interest.
 
 <b>REFLECTION:</b> As one of the longer film projects I've undertaken with a production team spanning nearly 13 weeks, maintaining open communication at all times with Hapa was integral in creating a film that both the team and Hapa was satisfied with. However, this project wasn't without its challenges; many of the days we had planned to shoot interviews or B-roll were cancelled due to poor weather conditions or designers were unavailable. During the editing stage, we discovered some of our equipment was not functioning as expected or was not set up properly prior to shots, resulting in less than desirable audio and video quality and having to reshoot some of the scenes to achieve the result we wanted. It was an incredibly time-consuming and stressful process getting from an initial idea to a polished, high quality film, but the experience in working together with my team, Hapa, and the Museum of Vancouver was enjoyably unique.
