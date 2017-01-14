@@ -17,13 +17,11 @@ categories: projects
 
 Hapa expressed great interest in working with our team and the Museum of Vancouver to create a film about their firm and "Why I Design". Before conducting the actual interviews, the team created a storyboard with myself developing the majority to give Hapa a clear idea and direction of how the team envisioned the film.
 
+![My helpful screenshot](/images/iat344/storyboard1.png)
+
 <a href="/images/iat344/storyboard1.png" data-lightbox="storyboards" data-title="Storyboard page 1">Storyboard 1</a>
 <a href="/images/iat344/storyboard2.png" data-lightbox="storyboards" data-title="Storyboard page 2">Storyboard 2</a>
 <a href="/images/iat344/storyboard3.png" data-lightbox="storyboards" data-title="Storyboard page 3">Storyboard 3</a>
-
-<a href="/images/iat344/storyboard1.png" data-lightbox="appfoundry_image_set" data-title="The AppFoundry Logo">
-  <img src="/images/iat344/storyboard1.png" alt="This is our logo" class="yourclass" style="max-width:10%;"/>
-</a>
 
 With the storyboard complete and sent to Hapa to review, the team then focused on arranging suitable interview times with the designers in their studio. In preparation and understanding that we may not have more than a couple of opportunities to be able to film Hapa in their studio due to time constraints and availability, we arranged several interview questions specific to each designer's roles, projects, and contributions. We also prepared some general statements and questions about "why they design", "what design means to them", and "what Hapa is" to highlight the firm's collaborative nature, as no one project is done by a single designer, but rather a team of designers.
 
