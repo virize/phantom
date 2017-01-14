@@ -13,16 +13,17 @@ baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/logo.svg
+logo-image-url: images/favicon_2017.svg
 font-awesome-icon-logo:
 
 # Social settings
-github_username: virize
-twitter_username: virizeze
+etsy_username: Virize
 facebook_URL: VirizeArt
+github_username: virize
 instagram_username: virizeze
-dribbble_username:
-500px_username:
+linkedin_username: jennifer-hiew-52ba30112
+tumblr_URL: virize
+twitter_username: virizeze
 phone:
 
 # Build settings
