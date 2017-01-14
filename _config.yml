@@ -10,7 +10,7 @@ title: Jennifer Hiew
 email: jenhiew21@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
 baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "jenniferhiew.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/favicon_2017.svg
