@@ -23,7 +23,7 @@
 	}
 
 	body {
-		line-height: 0.8;
+		line-height: 0.6;
 	}
 
 	ol, ul {
@@ -1686,7 +1686,7 @@
 		font-style: italic;
 	}
 
-	img + cap {
+	cap {
 		font-size: 0.8em;
 		text-align: center;
 	}
