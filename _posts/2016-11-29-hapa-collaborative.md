@@ -5,8 +5,7 @@ date:   2016-11-29 12:00:00 -0800
 categories: projects
 ---
 <iframe width="1200" height="675" src="https://www.youtube.com/embed/-YrKjQMJ7js" frameborder="0" allowfullscreen></iframe>
-
-
+<p></p>
 <b>THE PROJECT:</b>  Made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT), the team interviewed local landscape architecture firm Hapa Collaborative, highlighting why they design as well as some of their various projects and installations within the city of Vancouver in a documentary style film.
 
 <b>TEAM:</b> Jennifer Hiew, Phoebe Lim, Michelle Ng, Grant Zou
@@ -19,7 +18,7 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard2.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/storyboard3.png" alt="" /></span></div>
 </div>
@@ -29,10 +28,10 @@ With the storyboard complete and sent to Hapa to review, the team then focused o
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><img src="images/iat344/2016-10-26-16.27.png" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="images/iat344/2016-10-26-16.27.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/2016-10-26-16.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/iat344/2016-11-02-15.30.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/iat344/20161102_160528.png" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/iat344/20161102_160528.png" alt="" /></span></div>
 </div>
 </div>
 
