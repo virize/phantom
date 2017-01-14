@@ -4,9 +4,8 @@ title:  "Hapa Collaborative: 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 categories: projects
 ---
-<h3>HAPA COLLABORATIVE: 'WHY I DESIGN'</h3>
+<iframe width="1200" height="675" src="https://www.youtube.com/embed/-YrKjQMJ7js" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-YrKjQMJ7js" frameborder="0" allowfullscreen></iframe>
 
 <b>THE PROJECT:</b>  Made in collaboration with the Museum of Vancouver and Simon Fraser University's School of Interactive Arts + Technology (SIAT), the team interviewed local landscape architecture firm Hapa Collaborative, highlighting why they design as well as some of their various projects and installations within the city of Vancouver in a documentary style film.
 
@@ -20,9 +19,9 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard1" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard2" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/iat344/storyboard3" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/iat344/storyboard1.png" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/iat344/storyboard2.png" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/iat344/storyboard3.png" alt="" /></span></div>
 </div>
 </div>
 
