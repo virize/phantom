@@ -3,7 +3,7 @@ layout: page
 title:  "Hapa Collaborative: 'Why I Design'"
 date:   2016-11-29 12:00:00 -0800
 categories: projects
-imagefolder: /images/iat344
+imgfolder: /images/iat344
 images:
   - name: storyboard1.png
     thumb: storyboard1.png
