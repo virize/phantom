@@ -20,7 +20,7 @@ Hapa expressed great interest in working with our team and the Museum of Vancouv
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><a href="http://i.imgur.com/Ig7NjeK.png"><img src="http://i.imgur.com/Obcm2Tc.png?1" alt="" /></a><div align="center"><cap>Conducting an interview.</cap></div></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/Ig7NjeK.png"><img src="http://i.imgur.com/Obcm2Tc.png?1" alt="" /></a></span></div>
 <div class="4u"><span class="image fit"><a href="http://i.imgur.com/Esf7G8C.png"><img src="http://i.imgur.com/oIBuJn4.png?1" alt="" /></a></span></div>
 <div class="4u$"><span class="image fit"><a href="http://i.imgur.com/qYbdB6p.png"><img src="http://i.imgur.com/Lnn4aEB.png?1" alt="" /></a></span></div>
 </div>
@@ -31,9 +31,9 @@ With the storyboard complete and sent to Hapa to review, the team then focused o
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><a href="http://i.imgur.com/fNp6bSy.png"><img src="http://i.imgur.com/EWs1qsk.png?1" alt="" /></a></span></div>
-<div class="4u"><span class="image fit"><a href="http://i.imgur.com/FcGinqt.png"><img src="http://i.imgur.com/JLaNWM8.png?1" alt="" /></a></span></div>
-<div class="4u$"><span class="image fit"><a href="http://i.imgur.com/BvaoS8s.png"><img src="http://i.imgur.com/pXoef6Y.png?1" alt="" /></a></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/fNp6bSy.png"><img src="http://i.imgur.com/EWs1qsk.png?1" alt="" /></a><div align="center"><sub>Conducting an interview.</sub></div></span></div>
+<div class="4u"><span class="image fit"><a href="http://i.imgur.com/FcGinqt.png"><img src="http://i.imgur.com/JLaNWM8.png?1" alt="" /></a><div align="center"><sub>Showing the designers at Hapa the film's progress thus far.</sub></div></span></div>
+<div class="4u$"><span class="image fit"><a href="http://i.imgur.com/BvaoS8s.png"><img src="http://i.imgur.com/pXoef6Y.png?1" alt="" /></a><div align="center"><sub>Filming B-roll footage.</sub></div></span></div>
 </div>
 </div>
 <br>
