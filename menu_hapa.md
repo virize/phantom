@@ -1,1 +1,1 @@
-<a href="{{ site.baseurl }}/hapa.html">Hapa Collaborative</a>
+{% post_url 2016-11-29-hapa-collaborative.md %}.
