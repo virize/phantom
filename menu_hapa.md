@@ -1,1 +1,1 @@
-{% post_url 2016-11-29-hapa-collaborative.md %}.
+{% post_url 2016-11-29-hapa-collaborative.md %}
