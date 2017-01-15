@@ -1,1 +1,1 @@
-{% post_url 2016-11-29-hapa-collaborative.md %}
+<a href="https://virize.github.io/phantom-jekyll-theme/hapa.html>Hapa</a>
