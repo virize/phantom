@@ -1,1 +1,1 @@
-<a href="https://virize.github.io/phantom-jekyll-theme/hapa.html">Hapa</a>
+<a href="{{ site.baseurl }}/hapa.html">Hapa Collaborative</a>
