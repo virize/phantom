@@ -1,1 +1,1 @@
-[Hapa Collaborative]({% post_url 2016-11-29-hapa-collaborative %})
+[Hapa Collaborative]({% post_url hapa.html %})
