@@ -1,1 +1,1 @@
-[Link to a post]({{ site.baseurl }}{% link _posts/2016-11-29-hapa-collaborative.md %})
+{{ site.baseurl }}{% post_url 2016-11-29-hapa-collaborative %}
